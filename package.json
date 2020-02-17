@@ -1,0 +1,19 @@
+{
+  "name": "pwa-sandbox",
+  "version": "0.1.0",
+  "description": "Sandbox for PWA Tutorials",
+  "scripts": {
+    "dev": "gulp serve"
+  },
+  "keywords": [
+    "pwa",
+    "tutorials",
+    "sandbox"
+  ],
+  "author": "alph0n5e",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-live-server": "0.0.31"
+  }
+}
